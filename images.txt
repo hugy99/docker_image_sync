@@ -1,2 +1,2 @@
 # 支持指定架构、多架构
---platform=linux/amd64,linux/arm64 nacos/nacos-server:2.4.0
+--platform=linux/amd64,linux/arm64 nginx:1.27
