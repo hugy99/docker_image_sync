@@ -1,2 +1,2 @@
 # 支持指定架构、多架构
---platform=linux/amd64 nacos/nacos-server:v1.4.8
+--platform=linux/amd64 onlyoffice/documentserver:9.4.0.1
